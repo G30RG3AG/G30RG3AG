@@ -1,5 +1,6 @@
 <!-- Banner Superior -->
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/2c1781d2-6ac5-4afb-8e62-c45cac070004" />
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/4405b56b-1117-4c15-b638-fd6c8e2bd735" />
+
 
 <p align="center">
   <img src="./banner.png" alt="Jorge Yahir Aguilar - Junior Data Analyst" width="100%" />
