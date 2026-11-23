@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mí:
 
-Ingeniero en Sistemas Computacionales y Analista de Datos enfocado en transformar información compleja en decisiones estratégicas de negocio.
+Egresado de la carrera en Sistemas Computacionales y Analista de Datos enfocado en transformar información compleja en decisiones estratégicas de negocio.
 
 * 🔭 **Formación y enfoque:** Recién egresado de la especialidad de Data Analytics en **TripleTen**, complementando mi título en Ingeniería en Sistemas Computacionales (**TESH**).
 * 📊 **Stack Analítico:** Desarrollo pipelines de limpieza, análisis estadístico y modelado de datos utilizando **Python (Pandas, NumPy)**, **SQL**, **Power BI** y **Tableau**.
