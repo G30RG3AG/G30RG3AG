@@ -28,12 +28,6 @@ Egresado de la carrera en Sistemas Computacionales y Analista de Datos enfocado 
 ---
 
 ### 🛠️ Lenguajes y herramientas :
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,firebase,react,js,html,css" />
-  </a>
-</p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,firebase,react,js,html,css" height="48" />
