@@ -34,3 +34,10 @@ Egresado de la carrera en Sistemas Computacionales y Analista de Datos enfocado 
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,firebase,react,js,html,css" />
   </a>
 </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,firebase,react,js,html,css" height="48" />
+  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+</p>
